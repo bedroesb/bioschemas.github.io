@@ -3,7 +3,6 @@ layout: person-details
 id: OlgaXimenaGiraldo
 first-name: Olga
 last-name: Ximena Giraldo
-collection: people
 affiliation: Ontology Engineering Group, Universidad Politécnica de Madrid, Spain
 homepage: http://oxgiraldo.wordpress.com/
 github_username:

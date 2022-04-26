@@ -3,7 +3,6 @@ layout: person-details
 id: AlexanderGarcia
 first-name: Alexander
 last-name: Garcia
-collection: people
 affiliation: Tu Graz
 homepage: https://www.researchgate.net/profile/Alexander_Garcia
 github_username: alexgarciac

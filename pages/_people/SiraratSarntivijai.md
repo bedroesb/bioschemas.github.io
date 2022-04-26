@@ -3,7 +3,6 @@ layout: person-details
 id: SiraratSarntivijai
 first-name: Sirarat
 last-name: Sarntivijai
-collection: people
 affiliation: ELIXIR Hub
 homepage:
 github_username: siiraa

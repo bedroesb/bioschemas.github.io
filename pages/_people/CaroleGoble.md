@@ -3,7 +3,6 @@ layout: person-details
 id: CaroleGoble
 first-name: Carole
 last-name: Goble
-collection: people
 affiliation: University of Manchester
 homepage: http://www.manchester.ac.uk/research/Carole.goble/
 github_username:

@@ -3,7 +3,6 @@ layout: person-details
 id: RafaelJimenez
 first-name: Rafael C
 last-name: Jimenez
-collection: people
 affiliation: ELIXIR Hub
 homepage: https://www.linkedin.com/in/rafaelcjimenez/
 github_username: rajido

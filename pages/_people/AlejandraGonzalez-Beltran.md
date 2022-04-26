@@ -3,7 +3,6 @@ layout: person-details
 id: AlejandraGonzalez-Beltran
 first-name: Alejandra
 last-name: Gonzalez-Beltran
-collection: people
 affiliation: Science and Technology Facilities Council
 homepage: https://agbeltran.github.io/
 github_username: agbeltran

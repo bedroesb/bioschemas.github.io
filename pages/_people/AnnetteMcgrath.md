@@ -1,6 +1,5 @@
 ---
 layout: person-details
-collection: people
 id: AnnetteMcgrath
 first-name: Annette
 last-name: McGrath

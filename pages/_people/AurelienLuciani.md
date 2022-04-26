@@ -3,7 +3,6 @@ layout: person-details
 id: AurelienLuciani
 first-name: Aurélien
 last-name: Luciani
-collection: people
 affiliation: European Bioinformatics Institute
 homepage: https://www.ebi.ac.uk/about/people/aurelien-luciani
 github_username: aurel-l

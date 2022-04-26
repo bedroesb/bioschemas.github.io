@@ -3,7 +3,6 @@ layout: person-details
 id: MichelDumontier
 first-name: Michel
 last-name: Dumontier
-collection: people
 affiliation: Maastricht University, Maastricht, Netherlands
 homepage: http://dumontierlab.com
 github_username: micheldumontier

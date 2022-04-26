@@ -1,7 +1,6 @@
 ---
 layout: person-details
 id: MatusKalas
-collection: people
 first-name: Matúš
 last-name: Kalaš
 affiliation: University of Bergen, Bergen, Hordaland, Norway / ELIXIR-NO

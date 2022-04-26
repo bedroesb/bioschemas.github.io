@@ -3,7 +3,6 @@ layout: person-details
 id: PatriciaPalagi
 first-name: Patricia
 last-name: Palagi
-collection: people
 affiliation: Swiss Institute of Bioinformatics
 homepage: https://www.sib.swiss/people/Patricia.Palagi
 github_username: ppalagi

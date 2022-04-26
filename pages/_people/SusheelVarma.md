@@ -3,7 +3,6 @@ layout: person-details
 id: SusheelVarma
 first-name: Susheel
 last-name: Varma
-collection: people
 affiliation: ELIXIR Hub
 homepage:
 github_username: susheel
