@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Bioschemas Tutorials
-permalink: /tutorials/
-redirect_from:
-    - /tutorials
 nextTutorial:
   link: ./what_why_schema
   title: What and why Schema.org
